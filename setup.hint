@@ -1,0 +1,4 @@
+category: X11
+requires: cygwin libICE6
+sdesc: "Xorg ICE authority file utility"
+ldesc: "Xorg ICE authority file utility"
