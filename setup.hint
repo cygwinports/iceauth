@@ -1,4 +1,4 @@
 category: X11
-requires: libICE6
+requires: libgcc1 libICE6
 sdesc: "X.Org ICE authority file utility"
 ldesc: "X.Org ICE authority file utility"
